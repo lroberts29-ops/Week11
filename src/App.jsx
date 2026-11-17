@@ -16,7 +16,7 @@ function App() {
     <div>
       {/* the header at the top of the page */}
       <PageHeader
-        title="Florida Housing Dashboard"
+        title="Florida Housing Dashboard in 2026"
         subtitle="Home price index, then and now"
       />
       {/* first section: the latest month in the data */}
